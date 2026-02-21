@@ -2,35 +2,21 @@
 
 # Hi there, I'm Navyasri Pulipati! 👋
 
-<!-- View Counter -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=Navyasri12355&label=Profile%20Views&color=0e75b6&style=flat)
 
-<!-- Dynamic Quote -->
 [![Navyasri's Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-**Artificial Intelligence & Machine Learning Student | R.V. College of Engineering**  
-*Building Agentic AI, MLOps Platforms, and Computer Vision Solutions.*
-
-[🌐 Portfolio](https://navyasri-portfolio-website.vercel.app/) • [👔 LinkedIn](https://www.linkedin.com/in/navyasri-pulipati-42a599284) • [📧 Email](mailto:pulipatinavyasri@gmail.com) • [💻 LeetCode](https://leetcode.com/u/Navyasri12355/)
 
 </div>
 
 ---
 
-### 🧐 About Me
+### About Me 
 
-I am a 3rd-year engineering student passionate about solving real-world problems using **Machine Learning** and **Computer Vision**. My current focus is on **Agentic AI Systems** and **Decentralized Machine Learning**.
-
-- 🔭 I’m currently working as an **AI Research Intern at Xtelify Limited (Airtel Digital)**, developing autonomous agentic systems for telecom capacity management.
-- 💼 Previously, I built core AI agents (Translation, Summarizer) at **Anthrasync Solutions**.
-- 📝 I recently published a paper on **Music-Based Cryptography** at IEEE IC3IT 2025.
-- 👯 I’m looking to collaborate on **Open Source MLOps** and **Generative AI** projects.
+I'm a 3rd-year engineering student passionate about developing real-world systems using Machine Learning. Lately, I've been tinkering with various MLOps tools just to see what they're capable of!
 
 ---
 
 ### 🛠️ Tech Stack
-
-<!-- Badges sourced from Naereen/badges -->
 
 **Languages**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -57,18 +43,6 @@ I am a 3rd-year engineering student passionate about solving real-world problems
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **Federated Learning MLOps Platform** | Scalable decentralized ML system enabling collaborative model training across distributed clients while maintaining privacy. | Python, Docker, MLOps |
-| **Agentic Emergency Triage System** | Autonomous AI triage platform for resource-limited settings. Predicts resource demand (beds, oxygen) and allocates care. | Agentic AI, Python |
-| **Ayurvedic-Allopathic Decision Support** | AI system bridging modern and traditional medicine with safety analysis and disease-based recommendations. | NLP, ML |
-| **Fingerprint Detector & Blocker** | Chrome extension that detects and blocks browser fingerprinting attempts to protect user privacy. | JavaScript, Privacy |
-
----
 
 ### 📊 GitHub Activity
 
@@ -83,12 +57,4 @@ See instructions in the bottom of this file.
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Navyasri12355&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navyasri12355&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph"  />
-</div>
-
----
-
-<div align="center">
-    <i>Let's connect and build something amazing!</i><br>
-    <a href="https://www.linkedin.com/in/navyasri-pulipati-42a599284"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:pulipatinavyasri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
