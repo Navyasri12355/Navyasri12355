@@ -49,6 +49,6 @@ I'm a 3rd-year engineering student passionate about developing real-world system
 </p>
 
 <div align="center">
-<img src="[https:///api?=Navyasri12355&show_icons=true&theme=radical&hide_border=true](https://github-readme-stats-fast.vercel.app/api?username=Navyasri12355&show_icons=true&theme=radical&hide_border=true)" height="160" alt="stats graph"  />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Navyasri12355&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph"  />
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Navyasri12355&layout=compact&theme=radical&hide_border=true"" height="160" alt="languages graph"  />
 </div>
