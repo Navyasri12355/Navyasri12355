@@ -8,15 +8,13 @@
 
 </div>
 
----
 
-### About Me 
+### About Me ✨
 
 I'm a 3rd-year engineering student passionate about developing real-world systems using Machine Learning. Lately, I've been tinkering with various MLOps tools just to see what they're capable of!
 
----
 
-### 🛠️ Tech Stack
+### Tech Stack 🛠️
 
 **Languages**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -44,12 +42,8 @@ I'm a 3rd-year engineering student passionate about developing real-world system
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
-### 📊 GitHub Activity
+### GitHub Activity 📊
 
-<!-- 
-NOTE: To make the graph below work, you must set up the GitHub Action workflow!
-See instructions in the bottom of this file.
--->
 <p align="center">
     <img alt="Navyasri's Activity Graph" src="https://github.com/Navyasri12355/Navyasri12355/blob/output/github-contribution-grid-snake.svg" width="800" />
 </p>
