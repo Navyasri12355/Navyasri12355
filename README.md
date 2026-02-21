@@ -6,7 +6,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=Navyasri12355&label=Profile%20Views&color=0e75b6&style=flat)
 
 <!-- Dynamic Quote -->
-[![Navyasri's Quote](https://github-readme-quotes.herokuapp.com/quote?pp=github&author=Navyasri&theme=radical&mode=dark)](https://github.com/PiyushSuthar/github-readme-quotes)
+[![Navyasri's Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 **Artificial Intelligence & Machine Learning Student | R.V. College of Engineering**  
 *Building Agentic AI, MLOps Platforms, and Computer Vision Solutions.*
