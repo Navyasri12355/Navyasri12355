@@ -45,10 +45,10 @@ I'm a 3rd-year engineering student passionate about developing real-world system
 ### GitHub Activity 📊
 
 <p align="center">
-    <img alt="Navyasri's Activity Graph" src="https://github.com/Navyasri12355/Navyasri12355/blob/output/github-contribution-grid-snake.svg" width="800" />
+    <img alt="Activity Graph" src="https://github.com/Navyasri12355/Navyasri12355/blob/output/github-contribution-grid-snake.svg" width="800" />
 </p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Navyasri12355&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navyasri12355&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph"  />
+<img src="[https:///api?=Navyasri12355&show_icons=true&theme=radical&hide_border=true](https://github-readme-stats-fast.vercel.app/api?username=Navyasri12355&show_icons=true&theme=radical&hide_border=true)" height="160" alt="stats graph"  />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Navyasri12355&layout=compact&theme=radical&hide_border=true"" height="160" alt="languages graph"  />
 </div>
