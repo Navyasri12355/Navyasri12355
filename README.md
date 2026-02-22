@@ -49,7 +49,7 @@ I'm a 3rd-year engineering student passionate about developing real-world system
 ### GitHub Activity 📊
 
 <p align="center">
-    <img alt="Activity Graph" src="https://rawgithubusercontent.com/Navyasri12355/Navyasri12355/blob/output/github-snake.svg" width="800" />
+    <img alt="Activity Graph" src="https://raw.githubusercontent.com/Navyasri12355/Navyasri12355/output/github-contribution-grid-snake-dark.svg" width="800" />
 </p>
 
 <div align="center">
