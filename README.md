@@ -29,7 +29,7 @@ I'm a 3rd-year engineering student passionate about developing real-world system
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-121212.svg?style=for-the-badge&logo=data:image/svg%2bxml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2014%2014%22%3E%3Cpath%20d%3D%22M0%203%20L6%203%20L8%207%20L6%2011%20L0%2011%20Z%22%20fill%3D%22%23008BFB%22%2F%3E%3Cpath%20d%3D%22M14%203%20L7%203%20L9%207%20L7%2011%20L14%2011%20Z%22%20fill%3D%22%23FF0052%22%2F%3E%3C%2Fsvg%3E)
+![SHAP](https://img.shields.io/badge/SHAP-121212.svg?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNCAxNCI%2BPHJlY3QgeT0iMiIgd2lkdGg9IjUiIGhlaWdodD0iMiIgZmlsbD0iIzAwOEJGQiIvPjxyZWN0IHg9IjYiIHk9IjIiIHdpZHRoPSI4IiBoZWlnaHQ9IjIiIGZpbGw9IiNGRjAwNTIiLz48cmVjdCB5PSI2IiB3aWR0aD0iOCIgaGVpZ2h0PSIyIiBmaWxsPSIjMDA4QkZCIi8%2BPHJlY3QgeD0iOSIgeT0iNiIgd2lkdGg9IjUiIGhlaWdodD0iMiIgZmlsbD0iI0ZGMDA1MiIvPjxyZWN0IHk9IjEwIiB3aWR0aD0iNCIgaGVpZ2h0PSIyIiBmaWxsPSIjMDA4QkZCIi8%2BPHJlY3QgeD0iNSIgeT0iMTAiIHdpZHRoPSI5IiBoZWlnaHQ9IjIiIGZpbGw9IiNGRjAwNTIiLz48L3N2Zz4%3D)
 
 **Cloud, MLOps & Tools**  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
