@@ -29,7 +29,7 @@ I'm a 3rd-year engineering student passionate about developing real-world system
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-%23FF0052.svg?style=for-the-badge&logo=python&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-121212.svg?style=for-the-badge&logo=data:image/svg%2bxml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2014%2014%22%3E%3Crect%20y%3D%222%22%20width%3D%225%22%20height%3D%222%22%20fill%3D%22%23008BFB%22%2F%3E%3Crect%20x%3D%226%22%20y%3D%222%22%20width%3D%228%22%20height%3D%222%22%20fill%3D%22%23FF0052%22%2F%3E%3Crect%20y%3D%226%22%20width%3D%228%22%20height%3D%222%22%20fill%3D%22%23008BFB%22%2F%3E%3Crect%20x%3D%229%22%20y%3D%226%22%20width%3D%225%22%20height%3D%222%22%20fill%3D%22%23FF0052%22%2F%3E%3Crect%20y%3D%2210%22%20width%3D%224%22%20height%3D%222%22%20fill%3D%22%23008BFB%22%2F%3E%3Crect%20x%3D%225%22%20y%3D%2210%22%20width%3D%229%22%20height%3D%222%22%20fill%3D%22%23FF0052%22%2F%3E%3C%2Fsvg%3E)
 
 **Cloud, MLOps & Tools**  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
