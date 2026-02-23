@@ -29,6 +29,7 @@ I'm a 3rd-year engineering student passionate about developing real-world system
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-%23FF0052.svg?style=for-the-badge&logo=python&logoColor=white)
 
 **Cloud, MLOps & Tools**  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
