@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Navyasri Pulipati! 👋
+# Navyasri Pulipati
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Navyasri12355&label=Profile%20Views&color=0e75b6&style=flat)
 
