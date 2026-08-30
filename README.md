@@ -11,7 +11,7 @@
 
 ### About Me ✨
 
-I'm a 3rd-year engineering student passionate about developing real-world systems using Machine Learning. Lately, I've been tinkering with various MLOps tools just to see what they're capable of!
+I'm a 4th-year engineering student passionate about developing real-world systems using Machine Learning. Lately, I've been tinkering with various MLOps tools just to see what they're capable of!
 
 
 ### Tech Stack 🛠️
@@ -50,6 +50,6 @@ I'm a 3rd-year engineering student passionate about developing real-world system
 </p>
 
 <div align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Navyasri12355&show_icons=true&theme=radical&hide_border=true&hide_rank=false" height="160" alt="stats graph"  />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Navyasri12355&show_icons=true&theme=radical&hide_border=true&hide_rank=true" height="160" alt="stats graph"  />
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Navyasri12355&layout=compact&theme=radical&hide_border=true"" height="160" alt="languages graph"  />
 </div>
